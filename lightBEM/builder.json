@@ -1,0 +1,16 @@
+{
+    "libs": [
+        "spriteHelper",
+        "sprite"
+    ],
+
+
+    "pages": {
+        "global": [
+
+        ],
+
+        "page1": [
+        ]
+    }
+}
