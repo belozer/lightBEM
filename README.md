@@ -36,6 +36,7 @@ lightBEM/libs/**vars/vars.styl**
 
 ### Структура проекта
 Сборка проекта происходит на основе файла **builder.json** расположенного в директории **lightBEM/**
+
 Пример builder.json
 ```
 {
